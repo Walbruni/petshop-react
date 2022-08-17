@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Petshop React
+Aplicação de um blog petshop consumindo uma API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
